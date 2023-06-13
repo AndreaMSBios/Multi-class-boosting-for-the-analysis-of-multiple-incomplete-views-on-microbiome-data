@@ -1,1 +1,1 @@
-# Multi-class-boosting-with-adversarial-multi-arm-bandits-on-incomplete-views
+# Multi-class-boosting-for-the-analysis-of-multiple-incomplete-views-on-microbiome-data
