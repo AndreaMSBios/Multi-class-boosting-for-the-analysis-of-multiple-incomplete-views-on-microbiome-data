@@ -6,5 +6,3 @@ Paper authors: Andrea Simeon, Miloš Radovanović, Tatjana Lončar-Turukalo, Mic
 
 Code author: Andrea Simeon
 
-## References
-Peng, J. et al. (2018). [Multiview boosting with information propagation for classification](10.1109/TNNLS.2016.2637881). IEEE Transactions on Neural Networks and Learning Systems, 29, 657–669
